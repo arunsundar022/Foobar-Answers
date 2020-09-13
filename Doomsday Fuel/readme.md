@@ -61,3 +61,8 @@ Input:
 solution.solution([[0, 1, 0, 0, 0, 1], [4, 0, 0, 3, 2, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]])
 Output:
     [0, 3, 2, 9, 14]
+    
+Markov Chain Reference
+======================
+[patrickJMT's video series on Markov Chains, watch episodes 7-9](https://www.youtube.com/watch?v=bTeKu7WdbT8)
+
